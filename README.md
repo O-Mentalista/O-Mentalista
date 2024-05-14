@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem-vindo ao palácio mental. 🧠
 
-<!--
-**O-Mentalista/O-Mentalista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Caio Quinelli.
 
-Here are some ideas to get you started:
+- Estou cursando o [Alura](https://www.alura.com.br), único motivo de sequer estar aqui.
+- Sou forçado a fazer JavaScript, um método extremamente arcaico e nada prático.
+- Aqui é onde eu preciso compartilhar meu trabalho.
+  
+### Meu contato 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+0000112715428xsp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/YywoFzSmmFgAAAAC/simon-baker-thumbs-up.gif)
